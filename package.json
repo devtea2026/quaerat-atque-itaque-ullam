@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/quaerat-atque-itaque-ullam",
-  "version": "2.1.49",
+  "version": "2.1.50",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -217,5 +217,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/quaerat-atque-itaque-ullam/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
